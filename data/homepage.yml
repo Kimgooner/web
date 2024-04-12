@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | [이름]" # TODO: 이름 추가
+    title: "Home | Jeong EuiJin"
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m [이름]" # TODO: 이름 추가
+  title: "Hello, I’m Jeong EuiJin"
   subtitle: "Developer"
-  description: "[소개]" # TODO: 소개 추가
+  description: "PNU computer Engineering 20"
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
